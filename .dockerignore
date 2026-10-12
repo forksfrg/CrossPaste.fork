@@ -26,3 +26,6 @@ coverage
 
 caddy/data
 caddy/config
+
+# AnsiRover deployment directories must not enter the Docker build context.
+ansirover/
